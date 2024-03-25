@@ -1,4 +1,4 @@
-module awesomeProject
+module importFilesFromGithuv
 
 go 1.17
 
